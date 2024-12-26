@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.anis</groupId>
-	<artifactId>EazySchool</artifactId>
+	<artifactId>EazyzSchool</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>EazySchool</name>
+	<name>EazyzSchool</name>
 	<description>Eazy School Web Application</description>
 	<properties>
 		<java.version>21</java.version>
